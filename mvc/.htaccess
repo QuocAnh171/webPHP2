@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule "add" "index.php?controller=admin&action=add"
+RewriteRule "list" "index.php?controller=admin&action=list"
+RewriteRule "customer" "index.php?controller=customer"
