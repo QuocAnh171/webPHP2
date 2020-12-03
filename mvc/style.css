@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.dangkysanpham{
+	width: 400px;
+	border: 2px solid #DDDDDDD;
+	margin-top: 60px;
+	margin: 0px auto;
+}
+.dangkysanpham h3{
+	background: #009688;
+	padding: 5px;
+	color: #FF0040;
+	text-align: center;
+}
+.dangkysanpham form table tr td{
+	padding: 6px;
+}
+.dangkysanpham form table tr td input{
+	padding: 3px 6px;
+}
+.danhsach{
+	width: 1000px;
+	margin: auto;
+	margin-top: 50px;
+}
+.danhsach table{
+	width: 1000px;
+	border: 1px solid #999999;
+
+}
+.danhsach h3{
+	background: #009688;
+	color: #FF0040;
+	text-align: center;
+	padding: 5px;
+}
